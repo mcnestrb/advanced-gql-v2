@@ -8,8 +8,48 @@
       "avatar": "http",
       "createdAt": 1571213104370,
       "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "foo@email.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1619625709498,
+      "id": "MHj5ISbhXxkjcKyU2hSzB"
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "message": "Here's a new message",
+      "author": "MHj5ISbhXxkjcKyU2hSzB",
+      "createdAt": 1619625884520,
+      "id": "ZQDD9g1cnBdqTM3epOKLB"
+    },
+    {
+      "message": "Here's a new message",
+      "author": "MHj5ISbhXxkjcKyU2hSzB",
+      "createdAt": 1619625892789,
+      "id": "H-Wdt2OnN7UXmBAqwRKFJ"
+    },
+    {
+      "message": "Here's a new message",
+      "author": "MHj5ISbhXxkjcKyU2hSzB",
+      "createdAt": 1619625898271,
+      "id": "fpRWAESL8h2jexDNbhyuw"
+    },
+    {
+      "message": "Here's a new message",
+      "author": "MHj5ISbhXxkjcKyU2hSzB",
+      "createdAt": 1619625920738,
+      "id": "iO4Gp3z8J3ijFjM5qBz31"
+    },
+    {
+      "message": "Here's a new message",
+      "author": "MHj5ISbhXxkjcKyU2hSzB",
+      "createdAt": 1619625994297,
+      "id": "RPLagR1WYgdscjiEZWXlF"
+    }
+  ],
   "settings": []
 }
