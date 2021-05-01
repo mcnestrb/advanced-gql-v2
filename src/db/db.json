@@ -17,6 +17,15 @@
       "avatar": "http",
       "createdAt": 1619625709498,
       "id": "MHj5ISbhXxkjcKyU2hSzB"
+    },
+    {
+      "email": "nobody@speak.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1619871401604,
+      "id": "pOkz69m3SKI9Q5PD6uQ2n"
     }
   ],
   "posts": [
